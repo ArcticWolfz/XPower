@@ -1,0 +1,17 @@
+[
+{
+  "modid": "Red_Tech_Addon",
+  "name": "RedTech Addon",
+  "description": "Addon For RedTech Mod",
+  "version": "0.0.1",
+  "mcversion": "1.6.4",
+  "logoFile": "",
+  "url": "http://proofscode.webs.com/ and github: https://github.com/ProofTheEngineer/RedTech",
+  "updateUrl": "",
+  "authors": ["kebbanalex", "ArcticWolfzz", "", "xXProto_typeXx", "still_killin586"],
+  "credits": "Made by Proof's Code, kebbanalex, ArcticWolfzz Programmer, ,Ideas xXProto_typeXx, still_killin586 Textures",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

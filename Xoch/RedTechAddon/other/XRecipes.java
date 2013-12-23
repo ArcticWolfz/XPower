@@ -7,6 +7,7 @@ import net.minecraft.item.crafting.FurnaceRecipes;
 import ProofTheEngineer.RedTech.block.Blocks;
 import ProofTheEngineer.RedTech.common.RedTech;
 import ProofTheEngineer.RedTech.items.Items;
+import Xoch.RedTechAddon.items.XI;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 public class XRecipes {
@@ -15,10 +16,10 @@ public class XRecipes {
 		
 		//********************************************************************************************************\\
 			
-		GameRegistry.addShapedRecipe(new ItemStack(Items.DiamondDrill, 1), new Object[] {
+		/*GameRegistry.addShapedRecipe(new ItemStack(XI.GooglesOfTech, 1), new Object[] {
 					
-			" xx", " cx", "v  ", 'v', Items.ControlSystem, 'x', Item.diamond, 'c', Items.Drill
-		});
+			"xvx", "xcx", 'x', Item.arrow, 'v', Items.ControlSystem, 'v', 
+		});*/
 		
 		
 	}
